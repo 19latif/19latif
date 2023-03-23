@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **latiftoran@gmail.com**
 
-- 📄 Know about my experiences and **connect with me [https://www.linkedin.com/in/latifturaan/](https://www.linkedin.com/in/latifturaan/)
+- 📄 Know about my experiences and **connect with me** [https://www.linkedin.com/in/latifturaan/](https://www.linkedin.com/in/latifturaan/)
 
 <p align="left">
 </p>
