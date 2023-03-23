@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **latiftoran@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/latifturaan/](https://www.linkedin.com/in/latifturaan/)
+- 📄 Know about my experiences and **connect with me [https://www.linkedin.com/in/latifturaan/](https://www.linkedin.com/in/latifturaan/)
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/latifturaan/</h3>
 <p align="left">
 </p>
 
