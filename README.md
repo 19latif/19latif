@@ -1,13 +1,14 @@
+
 <h1 align="center">Hi 👋, I'm Latif Turaan</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">Passionate about Data Engineering and Analytics</h3>
 
-- 🔭 I’m currently Studying Data Engineering and Consulting at **Albstadt University of Applied Science**
-
-- 🌱 I’m currently learning **Working on Some Data Engineering Projects**
-
-- 💬 Ask me about **Data Base Management, Data Analytics, Data Engineering, Web Dev (Backedn & Frontend)**
-
-- 📫 How to reach me **latiftoran@gmail.com**
+- 🔭 I’m currently studying **Data Engineering and Consulting** at **Albstadt University of Applied Sciences**.
+  
+- 🌱 I’m working on **various Data Engineering projects** and expanding my skills.
+  
+- 💬 Ask me about **Database Management, Data Analytics, Data Engineering, and Web Development (Backend & Frontend)**.
+  
+- 📫 Reach me at **latiftoran@gmail.com**.
 
 - 📄 Know about my experiences and **connect with me** [https://www.linkedin.com/in/latifturaan/](https://www.linkedin.com/in/latifturaan/)
 
