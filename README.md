@@ -4,11 +4,15 @@
 
 - 🔭 I’m currently studying **Data Engineering and Consulting** at **Albstadt University of Applied Sciences**.
   
+  
 - 🌱 I’m working on **various Data Engineering projects** and expanding my skills.
+  
   
 - 💬 Ask me about **Database Management, Data Analytics, Data Engineering, and Web Development (Backend & Frontend)**.
   
+  
 - 📫 Reach me at **latiftoran@gmail.com**.
+
 
 - 📄 Know about my experiences and **connect with me** [https://www.linkedin.com/in/latifturaan/](https://www.linkedin.com/in/latifturaan/)
 
