@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Latif Turaan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [historant](https://www.historant.de/)
+- 🔭 I’m currently Studying Data Engineering and Consulting at **Albstadt University of Applied Science**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Working on Some Data Engineering Projects**
 
-- 💬 Ask me about **Ruby, Ruby on Rails, JavaScript, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Data Base Management, Data Analytics, Data Engineering, Web Dev (Backedn & Frontend)**
 
 - 📫 How to reach me **latiftoran@gmail.com**
 
